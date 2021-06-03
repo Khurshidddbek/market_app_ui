@@ -1,6 +1,6 @@
-# task_amazon_app_ui
+# ar_bazar
 
-A new Flutter project.
+Savdoning zamonaviylashgan usuli
 
 ## Getting Started
 
